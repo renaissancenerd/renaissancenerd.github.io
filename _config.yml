@@ -17,6 +17,8 @@ header:
       slug: /publications
     - name: Blog
       slug: /blog
+    - name: Sundry
+      slug: /sundry
 
 footer:
   show_powered_by: true
