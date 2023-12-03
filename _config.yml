@@ -15,8 +15,6 @@ header:
       slug: /
     - name: Publications
       slug: /publications
-    - name: Blog
-      slug: /blog
     - name: Sundry
       slug: /sundry
 
