@@ -9,13 +9,7 @@ publications:
   conference: 19th International Conference on Semantic Systems, Leipzig, Germany
   paperlink: https://doi.org/10.3233/SSW230005
 
----
-
-layout: publications
-title: Expository Papers
-slug: /publications
 expository-papers:
-
  - title: Fourier Analysis on Number Fields and Hecke's Zeta Functions - Tate's Thesis
    authors: <u>Vatsal Limbachia</u>
    paperlink: /assets/Tate_s_thesis.pdf
