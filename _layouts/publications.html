@@ -25,6 +25,19 @@
         </div>
         <hr>
         </br>
+        <div class="work">
+          <h1 class="page-heading">Expository Papers</h1>
+          {% for item in page.expository-papers %}
+          <div class="work-item">
+              <strong>{{ item.title }}</strong></br>
+              {{ item.authors }}</br>
+              {% if item.paperlink != "NA" %}
+                  <a href={{ item.paperlink }} target="_blank" class="work-button">PDF</a>
+              {% endif %}
+            </span>
+          </div>
+          {% endfor %}
+        </div>
       </div>
     </div>
 
