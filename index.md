@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>
-  I like to think about pure mathematics, programming language design and compilers (among other things). Every now and then, I <a href="https://renaissancenerdblog.wordpress.com/">blog</a> about those things. It helps me think and learn more clearly.
+  I like to think about pure mathematics, theoretical computer science and programming (among other things). Every now and then, I <a href="https://renaissancenerdblog.wordpress.com/">blog</a> about those things. It helps me think and learn more clearly.
 </p>
 
 <p>My CV is available upon request.</p>
